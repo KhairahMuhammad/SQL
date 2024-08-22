@@ -1,5 +1,4 @@
->[!TIP]
->Read this first.
+
 
 
 # Khairah Muhammad's SQL Portfolio
